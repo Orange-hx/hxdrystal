@@ -1,0 +1,12 @@
+{
+    "name"         : "hxdrystal",
+    "url"          : "https://github.com/Orange-hx/hxdrystal",
+    "license"      : "Public",
+    "tags"         : [ "lua", "game", "externs", "drystal" ],
+    "description"  : "Haxe externs for Drystal!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
